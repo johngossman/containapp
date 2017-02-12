@@ -1,0 +1,8 @@
+hash: 6c8f910313b0830ba113eed7cfb27ff71705a682248080e24ef94aaf3adab9e2
+updated: 2017-02-12T11:58:58.143443447-08:00
+imports:
+- name: github.com/opencontainers/runc
+  version: c91b5bea4830a57eac7882d7455d59518cdf70ec
+  subpackages:
+  - tree/master/libcontainer
+testImports: []
