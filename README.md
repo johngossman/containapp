@@ -1,0 +1,1 @@
+Experiment with using libcontainer to create standalone cli utilities
